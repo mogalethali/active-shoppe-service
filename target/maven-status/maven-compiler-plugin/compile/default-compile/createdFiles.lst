@@ -1,0 +1,17 @@
+com/active/shoppe/model/Clients.class
+com/active/shoppe/service/ClientsService.class
+com/active/shoppe/dto/ProductsDTO.class
+com/active/shoppe/model/Products.class
+com/active/shoppe/endpoint/ProductApi.class
+com/active/shoppe/dto/ClientsDTO.class
+com/active/shoppe/ActiveShoppeServiceApplication.class
+com/active/shoppe/service/ProductService.class
+com/active/shoppe/model/ClientRequest.class
+com/active/shoppe/exception/ClientNotFoundException.class
+com/active/shoppe/endpoint/ClientsApi.class
+com/active/shoppe/repository/ClientsRepository.class
+com/active/shoppe/exception/ClientAlreadyInUseException.class
+com/active/shoppe/repository/ProductsRepository.class
+com/active/shoppe/config/SwaggerConfig.class
+com/active/shoppe/model/PurchaseRequest.class
+com/active/shoppe/exception/NotEnoughPointsException.class

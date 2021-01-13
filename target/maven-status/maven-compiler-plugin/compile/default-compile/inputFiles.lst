@@ -1,0 +1,17 @@
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/repository/ClientsRepository.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/model/ClientRequest.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/repository/ProductsRepository.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/service/ClientsService.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/exception/ClientAlreadyInUseException.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/exception/ClientNotFoundException.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/model/Products.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/endpoint/ClientsApi.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/model/Clients.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/dto/ClientsDTO.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/service/ProductService.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/ActiveShoppeServiceApplication.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/config/SwaggerConfig.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/dto/ProductsDTO.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/endpoint/ProductApi.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/model/PurchaseRequest.java
+/home/thali/momentum/repos/active-shoppe-service/src/main/java/com/active/shoppe/exception/NotEnoughPointsException.java
